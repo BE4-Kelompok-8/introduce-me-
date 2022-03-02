@@ -1,2 +1,0 @@
-## Agung
-# Version Control
